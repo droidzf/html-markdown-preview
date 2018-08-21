@@ -1,7 +1,3 @@
-# 修改基于[editor.md](https://github.com/pandao/editor.md)
-
-示例:
-
 base_url: https://dagx.io/
 
 [TOCM]
